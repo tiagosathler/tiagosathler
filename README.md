@@ -45,6 +45,20 @@
  <a href="https://www.linkedin.com/in/tiagosathler" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
  <!--START_SECTION:waka-->
+
+```text
+From: 02 March 2022 - To: 25 January 2023
+
+Total Time: 636 hrs 20 mins
+
+TypeScript   205 hrs 37 mins ████████░░░░░░░░░░░░░░░░░   32.31 %
+JavaScript   156 hrs 17 mins ██████░░░░░░░░░░░░░░░░░░░   24.56 %
+Python       113 hrs 39 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.86 %
+Java         87 hrs 32 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
+JSON         25 hrs 41 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Other        17 hrs 51 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+```
+
 <!--END_SECTION:waka-->
 
   ![Snake animation](https://github.com/tiagosathler/tiagosathler/blob/output/github-contribution-grid-snake.svg)
