@@ -47,15 +47,15 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 02 March 2022 - To: 04 June 2023
+From: 02 March 2022 - To: 06 June 2023
 
-Total Time: 884 hrs 3 mins
+Total Time: 886 hrs 33 mins
 
-Java             247 hrs 11 mins ███████░░░░░░░░░░░░░░░░░░   27.96 %
-TypeScript       209 hrs 39 mins ██████░░░░░░░░░░░░░░░░░░░   23.71 %
-JavaScript       157 hrs 34 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
-Python           153 hrs 45 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
-JSON             27 hrs 2 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Java             249 hrs 42 mins ███████░░░░░░░░░░░░░░░░░░   28.17 %
+TypeScript       209 hrs 39 mins ██████░░░░░░░░░░░░░░░░░░░   23.65 %
+JavaScript       157 hrs 34 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.77 %
+Python           153 hrs 45 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.34 %
+JSON             27 hrs 2 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
 ```
 
 <!--END_SECTION:waka-->
