@@ -45,11 +45,15 @@
 </div>
 <br>
 <div>
- <a href = "mailto:sathler@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/tiagosathler" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-<figure><embed src="https://wakatime.com/share/@tiagosathler/393b0c26-6939-40dd-b8ac-02fb9b181c7b.svg"></embed></figure>
-<figure><embed src="https://wakatime.com/share/@tiagosathler/30a6d045-172f-47ab-971e-99c85309204d.svg"></embed></figure>
+<a href = "mailto:sathler@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/tiagosathler" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+[![wakatime](https://wakatime.com/badge/user/691e767c-3fe9-496d-b84e-c5eb77c21835.svg)](https://wakatime.com/@691e767c-3fe9-496d-b84e-c5eb77c21835)
+
+[![wakatime](https://wakatime.com/share/@tiagosathler/393b0c26-6939-40dd-b8ac-02fb9b181c7b.svg)](https://wakatime.com/@691e767c-3fe9-496d-b84e-c5eb77c21835)
+
+[![wakatime](https://wakatime.com/share/@tiagosathler/30a6d045-172f-47ab-971e-99c85309204d.svg)](https://wakatime.com/@691e767c-3fe9-496d-b84e-c5eb77c21835)
+
 
  <!--START_SECTION:waka-->
 
