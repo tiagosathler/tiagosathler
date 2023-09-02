@@ -75,7 +75,5 @@ C                18 hrs 43 mins  ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
-  ![Snake animation](https://github.com/tiagosathler/tiagosathler/blob/output/github-contribution-grid-snake.svg)
-
+  
 </div>
